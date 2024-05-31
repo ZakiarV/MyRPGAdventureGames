@@ -1,0 +1,19 @@
+{
+  "text": "Hello! Welcome to the world of Solo Leveling! This is a fan-made text-based game based on the popular web novel by Chugong. You will be able to experience the world of Solo Leveling through this game. You will be able to level up, fight monsters, and explore dungeons. Are you ready to become the strongest hunter?",
+    "options": [
+        {
+          "id": 1,
+          "text": "Yes",
+          "setState": {
+              "started": true
+          }
+        },
+        {
+          "id": 2,
+          "text": "No",
+          "setState": {
+              "started": false
+          }
+        }
+    ]
+}
